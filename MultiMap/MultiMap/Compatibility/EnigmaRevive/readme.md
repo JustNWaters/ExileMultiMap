@@ -1,3 +1,5 @@
+WARNING! This DOES NOT include all the files from engima revive. Credit for this addon belongs to the author. You may get the full mod and information in regards to it here: https://github.com/HAPPY3N1GMA/Enigma_Exile_Revive
+
 To get Enigma Revive to work with MultiMap, you will need to perform one of the 2 options below:
 
 Easy Option
