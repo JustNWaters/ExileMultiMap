@@ -1,4 +1,4 @@
-To get Enigma Revive to work you need to edit the following file.
+To get Enigma Revive to work with MultiMap, you will need to perform one of the 2 options below:
 
 Easy Option
 1. Copy the included 'enigma_exile_revive.pbo' and overwrite '@Engima\Addons\enigma_exile_revive.pbo' (Possibly in your @exileserver\addons folder)
